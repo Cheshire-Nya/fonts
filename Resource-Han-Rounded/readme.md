@@ -22,3 +22,7 @@ KR: supports all Hangul (한글), and Hanja (한자) defined in KS character set
 ## 引用
 示例：`https://gcore.jsdelivr.net/gh/Cheshire-Nya/fonts@main/Resource-Han-Rounded/RHR-CN/ResourceHanRoundedCN-Bold.ttf`  
 **jsdelivr引用github资源不支持单个文件20MB以上**
+
+压缩后的woff,woff2字体文件，更适合Web使用**(均小于20MB可通过jsdelivr引用)**
+[RHR-CN-woff](/Resource-Han-Rounded/RHR-CN-woff/)，[RHR-CN-woff2](/Resource-Han-Rounded/RHR-CN-woff2/)对应的是[RHR-CN](/Resource-Han-Rounded/RHR-CN/)  
+[RHR-TTF-woff2](/Resource-Han-Rounded/RHR-TTF-woff2/)对应的是[RHR-TTF](/Resource-Han-Rounded/RHR-TTF/)
